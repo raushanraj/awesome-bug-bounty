@@ -34,6 +34,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [secinfinity.net](http://www.secinfinity.net/)  -  by Prakash Sharma
 - [websecuritylog.com](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 - [medium.com/@ajdumanhug](https://medium.com/@ajdumanhug) - by [Allan Jay Dumanhug](https://www.twitter.com/ajdumanhug)
+- [thesecuritynews.com](http://thesecuritynews.com) - by  Raushan Raj
 
 ### Platforms
 - [HackerOne](https://hackerone.com/)
